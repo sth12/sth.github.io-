@@ -26,21 +26,16 @@
 
  ## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/info-circle-solid.svg" width="30px"> 个人信息 
 
- - Java 工程师
- - 工作经验：21年
+ - man
+ - 23
 
 
 ## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
-- 学士，XXXX大学，计算机科学与技术专业，2012.9~2016.7
-- 外语能力： CET4/6 英语等级考试
-
+- 本科
 ## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/briefcase-solid.svg" width="30px"> 工作经历
 
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
-
-   负责 XXX
+-学生
 
 ## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/project-diagram-solid.svg" width="30px"> 项目经历
 
